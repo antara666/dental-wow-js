@@ -1,0 +1,91 @@
+@media(max-width:575px){
+    .logo_mb{
+        display: none;
+    }
+    .main_logo{
+        display: inline-block;
+    }
+    .main_logo img{
+        width: 120px;
+    }
+    .navbar{
+        padding: 0 10px;
+    }
+    .btn-appoint{
+        display: none;
+    }
+    .banner-image{
+        display: none;
+    }
+    .img-position{
+        text-align: center;
+        align-items: flex-end;
+        min-height: 82vh;
+    }
+    .banner-content h2{
+        font-size: 30px;
+    }
+    .banner-content h1{
+        font-size: 35px;
+    }
+    .banner-content p{
+        font-size: 15px;
+    }
+    .welcome-image{
+        position: inherit;
+        margin: auto;
+        width: 60%;
+        margin-top: 20px;
+    }
+    .welcome h2{
+        text-align: center;
+        margin-top: 30px;
+    }
+    .welcome p{
+        text-align: center;
+        margin-top: 10px;
+    }
+    .welcome-item p{
+        text-align: left;
+    }
+    .price-table{
+        margin-bottom: 25px;
+    }
+    .logo-part img{
+        width: 150px;
+    }
+    .recent-post{
+
+    margin-top: 30px;
+
+    }
+    .newsletter{
+
+    margin-top: 30px;
+
+    }
+    .follow-mobile h3{
+        text-align: center;
+    }
+    .client-logo{
+        margin-bottom: 18px
+    }
+    .owl-carousel .owl-item img{
+        width:70%;
+    }
+    .icon-text{
+
+    }
+    .icon-text h5{
+        
+font-size: 18px;
+    }
+    .icon-text p{
+        
+font-size: 10px;
+    }
+    .header-info{
+        display: flex;
+        align-items: center;
+    }
+}
